@@ -2,7 +2,7 @@ package memorygamereference;
 
 /**********************************************************************
  * Vic's version 10.0
- * September 1, 2010
+ * September 2, 2010
  **********************************************************************/
 import java.awt.Cursor;
 import java.awt.event.ActionEvent;
